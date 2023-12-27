@@ -1,0 +1,718 @@
+개요
+0:00
+Hello. This is ‘Ryang Geul’ (Ryanguru) In today's guide, we will be looking over the basics of aiming.
+0:07
+It's a bit embarrassing to call it like an Introduction of some studies. But I'm going to name it Introduction of Proper aiming. I will teach you some things that can be called "the basics" before applying it yourself.
+0:15
+These aren’t only for ‘specific’ aiming styles. Without understanding the “basics” certainly,
+0:21
+it’s hard to find where problems come from. That`s why these contents are important.
+자기소개
+0:27
+Before getting started, I might be a complete stranger to you. So to introduce myself briefly…
+0:32
+In 2019, T1(Fortnite, Overwatch), DWG (fortnite), WGS(fortnite) In 2020, C9 (KR Valorant) , Philadelphia Fusion(OW) , Paris Eternal(OW), Washington Justice(OW) ), London spitfire (OW), Houston Outlaws (OW)
+0:37
+In 2021, Washington Justice (OW), Houston Outlaws (OW), Toronto Defiant (OW), Florida Mayhem (OW), Talon Esports (OW), O2 Blast (OW) In 2022, Shanghai Dragons(OW), GHIBLI Esports(PUBG), T1 (OW) and so on
+0:44
+As you can see, I coached countless professional players Besides, That includes hundreds of high rank players and aspiring progamers.
+0:50
+In total, I have coached over 1,500 people, including casual gamers. Among them, hundreds of players were able to achieve top rankings.
+0:56
+Let’s start the tutorial now. Aiming can't be explained at simply.once So I'm going to explain it step by step.
+강의시작
+1:01
+This video will answer a lot of questions you might have about aiming, "So sit back, relax, and enjoy the video.
+1:07
+Let’s first look at some professional players’ mouse cam videos. Starting from low sens,
+1:13
+We’ll focus mostly on the mouse cam, not the gameplay. The first clip is Niko, one of the world's greatest CS:GO players with a beautiful aim.
+프로손캠
+1:19
+one of the best players in the world with a really beautiful aim. Whenever I show this clip to someone,
+1:24
+I always ask, “How does he aim?” Then, people will usually say: “I guess he uses the forearm for larger movements and the wrist for smaller movements."
+1:32
+“He aims by fixing his elbow." “Looks comfortable.” But l explain as watching it together.
+1:40
+He doesn't fix either wrist or arm, Rather, moves them together at once from hand to arm. So it looks very natural.
+1:47
+The wrist and arm do not take turns moving. He makes a continuous movement from hand to arm.
+1:55
+That’s why when you watch, it intuitively seems comfortable. His elbow does not act as a pivot, nor do the wrist and arm remain fixed
+2:04
+And this time, It`s the clip of the Valorant pro player TenZ playing Aim Lab See, his wrist and forearm isn`t fixed on somewhere but moves together. Right?
+2:12
+It is not just using the arm or the wrist, The act of aiming consists of both the movement of arm and wrist.
+2:19
+He doesn’t push his wrist to the limit but as much as needed.
+2:24
+Next clip is of Apex Legends’ pro-player Albralelie who uses higher sens. He has very nice instinctive aiming skill
+2:30
+and experiments with different ways of aiming. It is obvious that he uses quite high sens. As you can see,
+2:35
+The wrist and arm isn`t pinned somewhere and instead move in unison. After seeing different pro-gamers using different grip, setting, and sens each other,
+2:44
+we can spot a common feature. Arm and wrist isn`t fixed and they move together like a snake is that.
+2:50
+We can find instances just using the arm or wrist. But basically, they have to move together.
+2:56
+Pros have quite similar aiming techniques more than we think. Isn`t it? It’s mostly one in the same. So I’ll tell you why they have similar movements
+3:03
+and how you can get those movements. First, we must make a ‘base-point’ to aim clear.
+에임의 기준
+3:10
+If i ask “where is your base-point to aim?”, there are the lots of answers “finger”, “wrist”, “arm” and so on.
+3:16
+But, To aim is the consequence of the sensor`s moving on the mouse pad.
+3:21
+Main is the sensor. Aim follows his moving. If I was to make a metaphor, when we write something with a PEN, we surely grab close to the nib.
+3:29
+Just because it`s easy to control. But let’s suppose that we grab the middle and write something.
+3:34
+It might be pretty uncomfortable. As it gets farther, greater force is required to make movements more detailed.
+3:41
+Even farther? More uncomfortable and difficult. To make the sensor base-point is to grab the closer part to nib.
+3:48
+middle side? That is to control with wrist The sensor is here and the wrist is here.
+3:54
+It has this much of a distance. If i grab here and try to control in detail, wrist will be tightened and… it will be more difficult to control
+4:01
+Grabbing even farther? That`s like mainly using arm to aim. It`s quite weird sensor is here but aiming with arm.
+4:06
+Here to here? See? As you make the base-point farther from the sensor, you can feel difficult to control in detail or feel tightened muscles or both.
+4:15
+Because of that, in some cases, people who saying “I usually use my arm to aim” get the sens down and down. That is not a fundamental solution.
+4:22
+It may be difficult to get a sense of making a move starting from the sensor. Just be more intuitive.
+4:27
+Let`s suppose we plant a crayon to the sensor. Write down the alphabet ‘Z’ on the pad. What point is your starting to turn?
+4:33
+The point we planted the crayon. Right? If using wrist or arm, it doesn`t matter. When the enemy changes its direction, even if you follow an enemy straightly, The first reaction must be from sensor.
+4:43
+In some cases, It`s quite common to divide the motions like “Wide range is with arm~ And, detailed aim is with wrist!” That is the instance to grab the farther part of the pen.
+4:49
+Following, making a long and straight line is easy. But when you should write down the letters directly, you have to adjust your grip on the pen again.
+4:55
+It must be delayed. Right? From the beginning, as grabing this part, make straight line and write letters. That`s it! Isn`t it?
+5:00
+The very first time, there is no reason to change the base-point from the sensor. Whenever you should, you must be able to react from the sensor.
+5:07
+It`s same to switching targets or sights. It`s not a discontinuous thing like using arm, next is wrist.
+5:12
+It moves at once. That is to say making the sensor the base-point in real time is the key point.
+5:17
+With only the wrist or arm, Even though ONE MOTION is as fast as you want, the next reaction must be slow because of the discontinuous motion.
+5:25
+People who said “my reaction velocity is too slow!” have belonged there. And I will explain one feature of the sensor.
+센서의 특성
+5:31
+After putting aim on this line and grabbing side of the sensor, I`m going to turn this mouse.
+5:41
+Then, the position of crosshair wasn`t changed. Why? That`s because the position of sensor wasn`t changed.
+5:47
+I fixed the sensor like an axis and turned it. We wouldn`t move mouse in this way. Right? Usually in this way.
+5:54
+So if you tilt your mouse to left your reticle will go left and if you tilt it right, then it goes right. Quite reasonable, yeah.
+6:01
+But if you move your mouse to right while tilting it to left Your reticle will move to the right side. This shows how a sensor’s location is prior to mouse being tilted on one side
+6:09
+Actually, when i move the mouse in this way, so does the position of sensor. This can cause inductive error.
+6:15
+There are lots of people who tend to understand that aim proceeds due to tilting the mouse. Even if they don`t have thought about it, it can be accepted spontaneously.
+6:23
+Understanding in that way, The problem is that they are likely to set the base-point with the lower part of the mouse. Then, you will change direction by tilting your wrist in spite of yourself.
+6:31
+In that way, It might be felt that there are a few pixels more than i aimed.
+6:36
+Then, more pressure and more straining there is, and some situations like as attaching crosshair to enemy.
+6:42
+also it's not bad but cannot feel stable thing. That could be a reason being inconsistent, expecting to hit more, but fewer dealing or more bullet`s leaking.
+6:52
+From now on we will experience reacting from the sensor intuitively. Let’s say you plant a crayon to the sensor.
+6:59
+Just suppose that aiming appears on screen as your sketching with that crayon. And, first, sketch softly. Then, the hand doesn`t get tightened at all.
+7:05
+And, it can move to both sides softly. Or, even can aim with that soft movement.
+7:11
+In moving this much, the degree of the sensor doesn`t influence that and naturally less force is required.
+7:19
+And you can control it like this. These are what you should understand in this part. In this time, we will compare the motions. Intending to control based on angle of mouse, naturally, these motions that wrist is base-point come out.
+7:29
+Wrist is fixed, and tilt that from here. But reacting from sensor, the wrist isn`t fixed like this.
+7:36
+Though there isn`t a big motion, not fixed. For now, i will tell you something needless to say.
+7:41
+When you write down some letters, it must be moved as you wish. At that time, there is no such thing that some parts of the pen are fixed on somewhere.
+7:47
+To move this at will, it`s same too. Wherever being fixed, it will disrupt movements at some time.
+7:55
+Observant people, when watch pro-gamers` mouse cam, might have seen this wrist`s wiggling motion.
+8:11
+I`m saying that`s because they reacted from sensor. And, there are more stories about sensor. Direction is determined based on sensor lain vertically.
+8:28
+Assuming that the crosshair is fixed on the sensor is okay too. Pro-gamers or high rank players, however, aren`t aware of those things.
+8:37
+And also the movements flow of sensor and crosshair on screen do not even make perfect sync. The important point is to learn how to make control from the sensor.
+8:46
+But there are lots of people questioning these following problems. “My aim gradually moves upward.” “My aim moves down gradually from a certain point.”
+8:51
+“I can’t move my aim horizontally.” It's your unintentional sensor movement that caused these problems. That obviously explains that you make decisions based on your physical senses, not the sensor when you aim.
+9:00
+You’re saying you moved your wrist and arm with your personal sense to make certain movements but the result wasn’t what you wanted.
+9:06
+People who aim to make somewhere a pivot get few common feelings. Which causes misunderstanding.
+9:11
+You have to make a movement based on the sensor of mouse People like those should learn that sensor is the main key rather than practicing aiming skills first.
+9:20
+Since they’re totally understanding the aiming wrong way, Frequently, giving advice would be pointless. They need to learn a sensorial information.
+축이란
+9:28
+But many people aim to make somewhere like wrist, arm a pivot. It can be, but basically that is the wrong way.
+9:35
+“what? In my case, to make a pivot is good to hit the target!” A minute ago, I said “It is the wrist.” Though its roughly turning, curves are even.
+9:43
+Whether turning hard or light, it turns on a pivot, so movements get stable.
+9:48
+To aim horizontally is easy too. As they are tightened not so much, you can follow jumping targets and make recoil gentle a little bit.
+9:56
+And also, to control the degree of wrist turning, it might move as you want. To make somewhere a pivot means to limit motions and make it stable in a specific range.
+10:07
+It`s like to using drawing campasses With compasses, you would be able to draw a perfect circle even if you try to draw it roughly.
+10:14
+Yet, drawing a distorted circle with it would be hard. Pro gamers are used to drawing any shape of circle without using pivoting.
+10:20
+They feel comfortable even if they were asked to copy a sophisticated shape of any figure. They can simply trace it as watching them. This is obviously much more difficult.
+10:26
+Because it doesn’t feel stable at first, Many of people tend to make a pivot or limit their movements.
+10:32
+In art class, drawing lines is too hard at first, likewise. But in the repetition, you can draw a straight line. So without assistance from some devices (pivots), you would be skilled at it.
+10:40
+Making somewhere a pivot could make you feel comfortable temporarily. If skilled, roughly moving mouse, you can make a straight line without the pivot.
+10:47
+The way to make pivot is definitely accessible to newbies and has some advantages in specific range and movements.
+10:53
+However, it naturally limits movements and disturbs the link between movements.
+10:59
+From now, let`s say how to make movements natural. First, i`m gonna explain What Arm-aiming and Wrist-aiming is.
+손목,팔에임이란
+11:07
+Just put the mouse aside and make a straight line with a fingertip.
+11:12
+From here. To here. At once. Do not say “Um..? My line is curved…”
+11:18
+Just make a line at once following the straight one. It doesn`t have to be perfect.
+11:23
+Relax and Move up to your uptake. There is no uncomfortable thing. Right? It might be a feeling to move with fingertip.
+11:30
+If you check this movements, the arm moved a lot. This is the Arm-aiming.
+11:36
+. This is the arm aim. It but the arm`s having moved a lot in moving the mouse, that is the Arm-aiming. And, similarly make movements in this range with your fingertip.
+11:41
+Then your wrist reacts. This is what Wrist-aim is. It’s not a feeling in which you voluntarily move your wrist. It’s a feeling in which your wrist movement has been involuntary.
+11:48
+For example, when we write with a pen our wrists move involuntarily. It has the same concepts.
+11:53
+Now, what I am about to explain is the determining factor between pros and amateurs. The biggest factors are the region and usage of muscles
+손목 에임
+12:01
+In order to comprehend this, you must know the anatomy of the hand and wrist. And how those react within partly.
+12:07
+Here lies Extensor Pollicis Longus (EPL) and Extensor Pollicis Brevis (EPB) I won’t explain too in that depth. Rather than abstract explanation,
+12:13
+I will add the anatomical explanation later on. For you to understand, it will feel more suitable. I have tried so many ways. however, the easiest way to understand is that way.
+12:21
+First of all, from finger muscles to arm do not act independently. All of them is almost connected.
+12:27
+If you try to put pressure to your thumb, you will feel pressure on your palm as well. Whereas if you put pressure on this part of your palm,
+12:32
+it’s a visa-versa. Moreover, if you do on your ring finger and the little finger, You will feel pressure at the bottom of your palm.
+12:38
+On the other hand, if you put pressure here, it will reach all the way here. If pressure is applied to index and middle fingers, there will be a force applied to the wrist overall.
+12:45
+contrarily, if you make pressure applied to the wrist, it will then put force. It feels like being tightened. So,
+12:50
+While playing games, there are moments when you apply a strong and constant pressure onto the click without your knowing self. In this moment, even when trying to release the force from your fingers, there are cases where you still hold tight onto it.
+12:57
+In this case now, the force applied onto the wrist should also be released or else, the fingers will still remain tightened.
+13:02
+Just use this as a reference The important point is that my hands are now divided into three parts. One
+13:07
+Two Three These three parts react together. And even they are used often anyway.
+13:13
+To click or turn the wrist so on. To use them together is important. Pros always do.
+13:20
+Not to say directly push and pull like this, When these move, naturally it does too.
+13:27
+You can easily understand these things. Suppose that Targets are doing fast sideway movements. And imagine you follow the movements instantly with five tips of your fingers as if you are a inkjet printer.
+13:35
+When you try it, It doesn’t make your hand tightened with tension. But if you use only two of your fingertips,
+13:40
+Your hand will get tightened immensely. Though Hand is this much thing, it will be pretty hard to make movements only to use this part.
+13:46
+That`s because it has to carry this much of mass. To use them together is more efficient of course. And about the wrist,
+13:51
+actually, there are some differences between ‘The wrist’ and ‘The anatomical wrist’. Lots of people think ‘This part is the wrist.’
+13:56
+That is the forearm bone in fact. your wrist is twisting above here. Eight wrist articulations are here.
+14:02
+and tendons are here too. Try moving the tips of all five fingers, left and right. Then the wrist will naturally react together.
+14:09
+However, the same motion comes when moving the wrist joint directly. What this means is that there is no reason to move this directly.
+14:16
+If you move up here instead of moving the wrist joint. Wrist is moved together anyway. To be specific,
+14:22
+the muscles used to move fingers are also involved in the movement of the wrist joint. However, there are six wrist muscles that move only the wrist joint, not the hand.
+14:30
+If you only use these muscles, your hand can not react You can make a direct comparison for this. If you give a direct tension to the wrist joint, your entire hand will become stiff.
+14:37
+The tips of all five fingers don’t move as you’d like. But giving tension from the fingers, though the wrist can be tightened a little bit.
+14:43
+you will be able to control the tips as you`d like. Although force is applied to hands, they move quite intentionally. That`s why Professional Gamers [Use their Wrist including Hand]
+14:51
+The ‘wrist’ their often mentioning includes this. Most of people who freely use wrist including hand take it for granted rather than getting a sense of it through experience.
+15:02
+As a result, pro gamers don’t understand why this isn`t taken naturally. Actually, I first started coaching with the question of why this couldn`t be taken naturally.
+15:10
+There was the reason why so difficult to communicate is Even if explaining what aiming and movement is over and over, we think in different ways while communicating.
+15:15
+Likewise, the same word [Wrist] is used at same time but it can have different understanding to each others That`s because without a doubt This is a [Wrist].
+15:22
+The other terms are the same things as well as the [Wirst]. In lower elos, they haven`t used a hand itself. And even there are cases to use only arm or wrist to aim.
+15:29
+Those who are inconsistent, even though their rank is high, pretty good to aim, but substantially different between practice and real match
+15:35
+tend to use hand and wrist separately. Because they have been dividing small flicks and larger movements,
+15:40
+it`s impossible to link each other. However, if you build a habit of activating most of the muscles when aiming,
+15:46
+you can feel like you are aiming within the hands in real time. Though using the wrist, you are not limited by the range of motions.
+15:53
+Since it becomes a single motion, it moves smoothly. And the wrist is used within just the right range Then, unnecessary tightening goes away
+16:00
+and you will have a lower chance of injury to your wrist. To use specific regions or muscles separately, You will be affected by a grip and sensitivity
+16:08
+which will lead to putting excessive force on your muscles. That is also mainly responsible for being stuttered or trembling.
+16:16
+We must put ourselves into a trial now. I`ve told you using both sides is important. Therefore, imagine that you pinch an imaginary stick.
+16:23
+Like this. Since you can regard these as paired. It doesn’t matter which you use. Or Both
+16:29
+Try to move as a feeling to move this stick. As you are tracking a target, try a quick target switch as well.
+16:34
+No matter how you try to move your hand fast and spaciously, You will feel comfortable at your wrist and less pressure on your arm
+16:39
+However, if you are to move this with your arm only, your arms and shoulders will get tired quickly.
+16:44
+Why? Because it has to carry even this much of masses, more pressure and strength are required. Furthermore, you may feel tension on overall arm, shoulder and even upto trapezius.
+16:54
+If you push/slide in your index or middle finger. or directly move your wrist joint, your arm will be in “dragged motion”. In this condition, your wrist is in an uncomfortable state and your fingers don`t move as you want.
+17:03
+As well as when you move with quick motion. However, if you use your hand as a whole and move as you are holding the stick and moving it,
+17:08
+your arm will not be in “dragged motion” and move naturally. In this condition, your fingers will move freely and your wrist will be comfortable.
+17:14
+If you move left toward index and middle finger or rotate your wrist, it will be uncomfortable. It will also have direct damage to your wrist.
+17:21
+It will be worse as you do it faster. However, if you use both sides It’s very comfortable, isn’t it?
+17:26
+Even if you move fast or put a lot of strength into it, It will be very comfortable. So is the other side. But if you try to differentiate these two with mouse cam, it is very difficult.
+17:34
+Wrist Hand They both look the same. However, my physical condition will be completely different.
+17:40
+So is the other side. So when you look at pro gamers’ mouse cams, they may seem over-rotating their wrists and putting a lot of strength.
+17:46
+And when you try their methods you end up with a sore wrist. Then you ask are their wrists special? But, if you use your hand together, the force you put on your wrists is surprisingly low. (Ofc it range of motion may vary depending on the person)
+17:53
+Range of motion including your hand and wrist Is more narrow than using only your wrist joint. Both sides need to support so that motions don’t go beyond certain range
+18:00
+Like quad bike’s auxiliary wheels. If you move them together Your wrist will only use minimal strength and move fluently.
+18:08
+If this becomes a habit, it works. If you are not used to moving hand first, then your wrist will be used less
+예시
+18:13
+However, if you adapt your wrist will rotate. This is an example of my play with same sensitivity
+18:19
+I don’t use my wrist at all right? I’m just shooting with the feeling my hand is moving. but,
+18:25
+The game may be different, but in the clip which I played with same sensitivity You can see me moving my wrist a lot However, I aimed with the feeling I am just simply moving my hand
+18:32
+The parts that I used are the same, but if I adjust the proportion you can change the range of motion like this at your own will. Well, it depends on the person how much it will rotate
+18:39
+Anyways, the motion will follow later. Therefore, you don’t have to worry about how and what your motions are like .
+18:45
+Now that we have talked about muscles I will explain why you should never aim with your elbow or shoulder joint as an axis.
+18:51
+First ofall, wrist muscle is connected all the way to your elbow. This is your wrist at the netural state.
+18:56
+Just by having your elbows bent or wrist rotated, your muscles will feel stress. That's why ergonomic or vertical mice are known to be good for your wrist health.
+19:04
+Anyways if you rotate having your elbow as an axis Your wrist and muscles will feel more pressure. To simplify, your wrist will seem like it has been used
+19:12
+Therefore, more and more you rotate Your wrist will feel uncomfortable. At this moment, your shoulder joint will rotate as well So when you feel like you have a poking pain at your shoulder, this is the reason.
+19:20
+As long as you don’t over-rotate or use it naturally, it doesn’t really matter. If you rotate based on your elbow or your arm
+19:25
+More you rotate, your fingers and wrists won’t move together. It’s quite uncomfortable. However, If you move your hand from here to here
+19:32
+It will be very comfortable By using muscles instead of joints, your elbow will have no discomfort
+19:38
+Look at the arm If it comes like this Your hand will be very uncomfortable If you move your hand from here to here, all your upper muscles will be used.
+19:44
+It’s very comfortable. however, if you rotate around based on your elbow your movement is going to be limited
+19:49
+making it uncomfortable like this even if you loosen it there’s still going to be delay (especially when aiming vertical) But when you try aiming with hands
+19:56
+entire muscle will move altogether so that you can aim around freely and easily likewise, this is also hard to differentiate through looking at the hand-cam
+20:04
+there is not much difference between moving your hand or moving using arm or elbow at the end, on the edge of the pad
+20:10
+the difference is only around 1, 2cm that’s why it becomes [is arm the axis? or is the elbow the axis?] however since the way of the muscles being used are completely different
+20:18
+the way it feels is completely different therefore there’s a limit in getting information from hand-cams. but if you know, there are still many things to see
+20:25
+so the conclusion is a single natural movement starting from hand is required in order to have a stable aiming When you control a ball in soccer, you ‘move your feet’, instead of caring about your ankles or knees.
+20:33
+just by focusing on your foot don’t get the motion you want of course, you should be trained enough to make a natural movement instead
+20:39
+and for that, a massive experience is required muscles of upper body including shoulders, arms, and wrists are used together when moving starting from the hand
+20:45
+that’s why hand is the first point to move when making a free and effective movement It’s a fact whether it’s a sport or an instrument you play
+20:52
+there are a lot of cases when this isn’t kept while in game there is only one person I coached offline (offline coaching is only for pro-gamers)
+20:57
+I think it’s been one year? I went over to his house and looked at him from behind then I could see him playing game with a lot of strength starting from trapezius to arms
+21:04
+about the moment my mouth was itching to teach, and he wanted me to tell him about it too, so I did so Then I told ‘Let’s move starting from the hand’
+21:10
+Moved like this I showed them right next to him “Try copy what I just did” Although I said “move starting from the hand”,
+21:17
+oh ? oh ? was all he reacted with So I just grabbed his hand and moved it myself
+21:22
+“So, you should be moving like this” after doing this, he slowly started to get a sense of it He now aims and shoots really well and after a while, he said
+21:29
+“I had not understood your words at all that time.” “But there are people who understand through body, not through words”
+21:34
+“when you grabbed my hand and moved it on my behalf, I started to realize a little” In fact, proper aiming must be recognized by own body
+21:39
+you feel difficult to understand through verbal language As i used to work out, it's been a bit more than a year since i've started to learn it seriously,
+21:46
+and it was suffering So now i feel empathy for my trainee more than ever attributed to these experiences Feels like it takes a few month to master one step properly
+21:52
+So realizing instinctively seems to be the hardest part Since the most frustrating person is yourself When I coach, I used to be in a rush because of having a thought that I needed to teach a lot
+22:00
+But after realizing that, I slowed my coaching tempo Also I don't exactly remember but I think it was a pro-gamer On one of the videos, he said if you think to grab on the upper side of the mouse
+22:08
+Aiming works better I thought it was a very good explanation on the method of moving starting from the hand
+22:13
+But most people take this as a grip A grip that holds on the upper side of the mouse Like this, understanding can be taken completely different through experience
+22:19
+I don't think it's an easy job of conveying my feelings to somebody else I think it's similar to the way of putting strength into your chest muscle, or keeping balance when you do weight training
+22:27
+Many things are easy in words, but it should be done and felt through body It wouldn't work as you think either Anyway,
+22:33
+moving your muscles freely and naturally without being taught, is honestly a talent you see how there are people who are athletic, without learning about it
+22:40
+people who can do this in the first place will keep getting better as they play more and more this is where growth difference is made and where ‘aim talent theory’ comes from
+22:46
+well, it’s half right and half wrong since there are a lot of factors behind it I have coached over a thousand people but except a very few individuals,
+22:53
+cases were that muscle movements weren’t free for example, most people in low elo use a very limited amount of muscles
+22:59
+and many people in somewhat high elo do use muscles but couldn’t make a natural connection in movement there are some people who made a sharp improvement in a short period of 1-2 weeks
+23:06
+after being coached by me, such as from gold-plat to radiant rank these are the cases where they were prepared to use their muscles
+23:12
+but didn’t know how to use it and if you get a sense of how and which muscles are needed to be used you don’t get swayed away by the grip
+23:19
+Instead of having an inductive reasoning of “this grip makes my aiming like this”, it becomes “because I gripped like this, obviously it will move this much and this kind of movements will be comfortable”
+23:26
+this makes a huge difference you’re getting an ability to work things out initiatively I’m not saying that this is everything of aiming
+23:32
+I’m emphasizing it by this much because there are so many things that can be solved in this part of problem If you think you are stuck in a certain stage even after spending a lot of time
+23:39
+I think it’s good for you to focus on this point In reality, when I coach someone that is not a high elo player the focus is on making the body to be able to move freely, rather than helping to aim
+23:48
+Although it’s helpful if you sensually can distinguish and know the functions of each muscles it is too deep and massive to explain in a basic course
+23:56
+later if I get a chance, I will deeply explain by using a 3D human anatomy application originally I only used to explain this to top tier players
+24:03
+but for lower elo players too, they said it was easier when thought of an image like playing sports Now if you look back at NIKO's hand-cam, you will have a new perspective
+24:13
+from start to the end, he aims using his hand the whole hand is reacting in real time
+24:18
+and this is a very important point you should not be memorising aim as an action For example, wrist
+머슬메모리
+24:24
+or arms there are so many cases where practice is done like this When wrist is moved this much, Because it moved this much in distance
+24:30
+If you memorize this movement, you will be able to hit an enemy in the exact distance, right? However I thought to move this much
+24:36
+But if I have force put into my wrist, it can actually make a smaller movement Range of muscle movements change due to the tension of the muscles and since there's a limit to muscle movement
+24:44
+Even if you move with a same feeling, if condition is different, it can output a different result Also practice is usually done in a neutral state. Practicing to react in other conditions are not often done
+24:53
+Either using wrist or arm, movement is stable if the standard is maintained If this standard is disturbed
+24:58
+It's easy for the aim to result different even though you move wrist or arm with the same feeling These are the cases when I flick with a thought to shoot this target
+25:04
+Ending up making a miserable shot somewhere else This can happen if conditions are changed without myself knowing Let me explain with a short clip.
+25:16
+He makes a little unique action when he shoots the last enemy Upper body lean towards the right side And the angle of the arm changes too, right?
+25:22
+Tracking Switching target X2 At this stage, I'm moving towards right, shooting the enemy slowly moving towards the left side
+25:30
+Originally if so, I just need to softly move my wrist to the left side, right? But before that, you see how quick movements were made to track the enemy
+25:38
+Then that much of a strength would have been applied to my body With tension in the muscles what I originally need to do like softly moving my wrist by this much
+25:44
+If I tried to aim using that movement I would be getting a feeling of my wrist being unable to move If so, usually
+25:49
+people choose the option to push and click with a stronger force But that's not the answer Although the body is hardened if you still try to move while standardizing the sensor
+25:56
+The hardened body will rather follow the mouse If moving from the sensor is set as a habit
+26:01
+These movements can come out naturally But it's not that this movement is all calculated even if you ask pro-gamers who move like this
+26:08
+they don’t really recognized what kind of movement they have done Additionally, it is okay to use your wrist and arm partially.
+26:15
+important fact is that this is an aim that would originally hit just by doing this Now. According to changes in the state of my body
+26:20
+it moved all the way like this, right? but there isn’t anybody who moves like this to aim a small distance like this, from the beginning Whether it’s like this, or like that
+26:27
+It’s an exact same aiming on the screen therefore [movements don’t completely correspond with aiming]
+26:32
+in any way if the sensor is moved properly, the same aim will come out but if you memorize it as an action, it can possibly become an aim that only comes out under certain condition
+26:40
+there are many people who try to memorize and keep the movement as clean as possible the aim on the screen can look clean if you respond based on the sensor
+26:46
+but really, there are many times when the movement of the sensor seems to be rough In real time, I need to be reacting to the changing condition of my body and the sensor
+26:54
+how? by putting the sensor as the base point to move while having the base point as sensor is similar to riding a bicycle
+27:00
+maintaining the centroid is not a fixed action but is about controlling it according to the terrain, the situation and the condition of your body
+27:06
+it’s like how you feel the moving of something like a ski or a bike, as if it’s part of your body at first, strength is applied to your body
+27:12
+but once you are used to it, the tension is released. Also it’s not like “I will turn my handles this much so I can move left by this much”, but it all becomes natural and moves like a part of your body
+27:19
+Your body has to adapt to the sensor as a sense In other words, process of aiming is not specifically set
+27:25
+It’s not like there is a metaphor that can be substituted to fix this or like your body moves perfectly the way you intend it to move
+27:31
+nor can formulate every single move you make The process of making your body move they way you think it would
+27:36
+We normally learn these as a form of ‘sense’ when you get enough of these ‘senses’, then you finally start to see new things and properly understand the theory
+27:44
+Once you get the basic concept, don’t get too into to the theory or method they will simply make things harder to understand
+27:49
+through my coaching experiences, teaching deeper theories didn’t make their performances any better ‘muscle memory’ is close to riding a bicycle
+27:56
+what I’m saying is that if you try to memorize a certain movement, aim can appear inconsistent
+28:02
+the process of improving aim is close to increasing coordination since I talked about inconsistency in aim, I’ll talk about it a little further
+기복에대해서
+28:07
+Actually, I don’t think there is ‘inconsistency’ in aiming. It’s really just the skill level. if a bronze player manages to swing their aim and end up making a headshot,
+28:13
+that's a good aim, too if it hits, it’s a good aim. The method used to aim wouldn’t matter if it ended up hitting honestly, it’s easy to raise the high point of your aim
+28:20
+either you only use fingers, arms, or whatever, you can still raise the high point of your aims Even if it’s not from one of the top players, it’s amazing to see a collection of good aims
+28:26
+at the end the important thing is about how high your ‘low point’ of aim is for example, there is 25% chance of having a good aim
+28:32
+then can this be defined as a good aim? top tier players have 70% 80% chance of having a good aim
+28:38
+then among them, the ones with over 90% chance of having a good aim really become professional players Well, that was just an example if we have a result of a ‘goal in’, that’s a good throw
+28:46
+but if someone manages to throw 100 balls and gets 10 in, that’s just a bad thrower I personally think the measure of aiming ability is about how often good aims are made
+28:53
+it’s like a batter’s batting average the higher the elo becomes, the enemies expose their body for a shorter time and they induce and act to make it difficult for the opponents to hit them
+29:00
+There are many cases where people shoot very well in my own tier, but if queue is matched up against people in higher elo they are unable to do any damage
+29:06
+Everyone shoots really well when they shoot after a “READY!” It’s important not only to kick well in place, but also to kick while dribbling and making body contacts
+29:13
+hitting a still sandbag in front of your eyes and hitting moving opponents are two different stories
+29:18
+Having good, consistent percentage of accuracy at any circumstances This is what good performance is And *that percentage is equivalent to performance
+29:24
+However, those percentage is deeply related to habits we have So taking care of our body and mentality is the best thing we can do
+29:30
+So wouldn’t it be great to work out( ͡° ͜ʖ ͡°) posing and controlling strength are also very important too but there’s a separate video about it, so you can probably watch that
+29:37
+but since this is a video that deals with the basics, I’ll just point out a very important part of it first, the posture down side of the mousepad. Or until the part where it meets the wrist
+29:44
+and the part that touches the end of the pad if these two parts are equivalent in weight distribution, it won’t be uncomfortable when moving
+29:50
+but at the end, the posture should be set to match the individual, so… I’ll skip you can take controlling strength as a similar thing to adjusting the pressure of the pen in writing
+29:58
+More details are in the video Now, I’ll answer some of the frequently asked questions There is a question that many top tier players also ask about
+자주하는질문
+30:04
+Q. My mouse keeps going down while aiming. Is this okay? No problem. It’s natural.
+30:10
+This and this, the aim is same
+30:16
+This and this If you don’t like it going down, try getting into the habit of moving more gradually
+30:21
+but usually, it’s about the mouse going down through making movements It’s fine unless your body is feeling uncomfortable there are many cases of mouse going down too much due to the overuse of shoulder, so be careful for that
+30:29
+Q. Do I do the same with high sensitivity? There are various ranges and methods of using high sensitivities, but it’s same that it’s based on these basics
+30:37
+Although most of this is covered by hand and wrist using a small ranged based on having good basics
+30:42
+is different from being able use only small range I have previously used a very high sens(8.66Cm/360) too and have coached many players with high sensitivities
+30:49
+If you’re using a high sensitivity but is not a top tier player, I recommend just using the average sensitivities the pro-gamers of the game use
+30:55
+high sensitivities are used by people who are already great with high sensitivities I haven’t seen one who learned to use high sens to make a growth to become a top tier player. Even if so, it should be a minority.
+31:02
+must be that difficult, right? well there should be a reason behind why it’s not often used and don’t have many cases of making a growth Q. How do I make a fingertip grip?
+31:10
+For fingertip grip too, if muscles are used separately going down then using arm to pull it down, stretching and pushing it there may be a delay while aiming
+31:17
+but for this case too, if mouse is set as the base point while aiming within your hand, the movement can be connected smoothly
+31:33
+Q. Is the use of an axis not necessary at all? It depends on the application For instance, games that have low-recoil and need quick target switching
+31:40
+Aiming with your arm or wrist as an axis might be helpful well, there's a lot of cases of using both In games that have high-recoil and have less change of direction, like PUBG
+31:47
+there are people who aims with arm there are people using elbow or arm as an axis to set a headline, in games like CS:GO there are some points that can be used like so
+31:54
+in the end, shots can possibly start missing when you face some off-condition circumstances and I have seen a lot of these kind of cases
+31:59
+Also like this, if you have a small spectrum in aiming, your skill level can vary from game to game Actually there are people who are top tier players in PUBG or CS,
+32:06
+but are gold or platinum in other games, saying that they can’t manage to get their shots I obviously think that each games have different parts of efficiency and it is up to optimizing it
+32:15
+it doesn’t matter to aim differently from game to game if the basics are yours, you will be able to find appropriate places to use it
+32:21
+Because today’s basics are about methods that can be used in all games you will find it easier to adapt to any game using this method
+32:28
+and there are cases where axis are used then naturally practice passing this will probably make a delay when you’re not ready for it
+32:35
+It will be more effective if it’s partially used in a natural movement Additionally, it is okay to use your wrist and arm partially.
+32:44
+Q. What's your opinion on using aim training tools? I think that's a difficult question to answer since it depends on person to person
+32:49
+But i'd recommend you not to use it without precise guidelines After reaching a certain level and it will turn into just sort of record breaking
+32:55
+Being suited to certain scenarios make you used to it But it doesn't tell you that's a good habit
+33:00
+Like setting up your muscles in advance to your recognition, and like memorizing an aim as one certain movement not as a response I had had a coaching to Kovaak's High-ranks and players spend more than thousand hrs on aim training tools
+33:08
+It is harder to get rid of bad habits after you learned it the wrong way Of course there are students who use it well, but only a few If you want to use aim training tools as a supplement rather than playing it as a game
+33:17
+It would be better not to concern to much on scores when your on it If your aim differs a lot from practice and actual game It would be better off reducing the usage of aim training tool
+33:24
+And never use prediction when you practice What i mean is That it depends on usage Q. Which game do you think aiming skills are most important?
+33:33
+I think every games have each matter of aiming But based on my coaching experience, Valorant was the game that most of my students improved the fastest
+33:38
+And had the highest increase in ranked. There are over 50 people who reached Radiant, Even Top 10 high-elo
+33:44
+and also some people who is stalled in Immortal had reached to Radiant after coaching Firstly, based on my experiences, fastest result came from Valorant
+33:51
+Well Since it depends on the rank system and aiming methods are different each game. Firstly, I believe rank cannot be given (Including difficulty in aiming)
+33:57
+I believe all are important, unless you are playing mercy Q. What are the cases in which people learn faster?
+34:03
+I think if you have athletic backgrounds, you tend to learn theoretical parts faster And if you are athletic, you tend to pick up sensual parts faster.
+34:09
+If you come from console background, you would tend to learn faster with mouse aiming My theory is it is because your thumb-related muscles are well developed.
+34:15
+Therefore, when you use a mouse your movement is natural. Normally, unless we are playing FPS games, we don’t tend to use them very often
+34:22
+Fastest way of getting into the habit of using thumb-related muscles is through console pads. Moreover, people tend to learn faster from scratch.
+34:30
+People with too much information tend to misunderstand the theoretical parts. Starting from scratch is easier to learn
+34:37
+Also, aim is heavily reliant on experiences and habits When aiming, my body and thoughts are determined by my intuition
+34:45
+When coaching, even though one may recognize their faults, it takes time. People react without themselves knowing.
+34:51
+When you are used to certain sports, it is very difficult to learn new sports because habits cause unintended reactions
+34:57
+Lower the tier, the worse the habits are. And these habits prohibit you from becoming a better player
+35:02
+As well as at higher elo, certain parts missing at your aim are due to those habits. People as me about my antecedents in coaching
+35:08
+I have coached almost every FPS games And this year, I have changed my ways. Rather than telling you “move like this and that”,
+35:17
+I have found teaching basic movements leads to faster learning. Normally if you adapt to moving with mouse sensor, sensitivity doesn’t come across as an issue
+35:27
+Since this part is easy to learn, my students get astonished I tell them don’t try to hit the targets, empty your mind and follow as I teach
+35:33
+They get a feeling of “oh? why is this working” Then when the feeling becomes more often A lot of the people say “What how is this working”
+35:39
+Such reactions from students bring joy to me. Therefore, it is best to learn with your body. And, removing bad habits, visual sync, and coordination
+35:48
+are what differentiates “class” in between high elo players. It’s a method in which one increases reaction time and bottom line of aiming
+35:53
+Even between high tier rankers, the differences are clear. I will show those differences in the next video through coaching high-elo players.
+36:00
+We will hear feedback from the player and show results. Normally, my coaching style tend to favor high elo players.
+36:06
+Since they tend to learn and feel faster Pros usually ask about daily posture or they ask about changing settings and optimizations.
+36:14
+For those who ask about effective training methods, I make a routine for them Some come to me because they are in slump or want aim improvements
+36:20
+Some come even they don’t have much problems, but want to get checked on their habits Also some habit correction
+36:26
+And even some came because why I am so good with aim Many more I have also coached League of Legends pro gamer
+36:31
+It wasn’t really related to FPS He just wanted to learn about mouse control I’m quite the self-proclaimed ‘SC2 GOSU PLAYER’ (I was GM)... so I taught him. LOL
+36:39
+It was unrelated to FPS movements. Actually aim-coaching was only a hobby for me at start
+36:44
+People who were taught by me are starting to debut as pro-players And without even myself knowing, my career is stacking and I am starting to feel proud.
+36:52
+Moreover, there are people who hit top-elo or increase tier by just watching my videos I’m seriously telling you guys my personal coaching is not a must.
+36:59
+Since I don’t really consider this as my main job I find it difficult spending all my time in coaching. Anyways, enough with the coach talks.
+마무리
+37:05
+What we learned today is the basics and fundamentals of aiming And with this background, it is your job to make it into your style.
+37:11
+With this information, you will get the basic concepts Also find the reasons for your bad habits or hindrances for climbing up.
+37:16
+However, it is a different story when it comes to sensually understanding and putting it to in-game. It’s a long process so please take your time
+37:23
+When I explain, I tend to use comparisons a lot, but it's not the answer. Before, I compared aiming into that of writing and my student was completely stuck on that comparison.
+37:31
+Please just think of it as an example to explain. Also, always try different methods and thoughts.
+37:37
+Today, my aim-lecture was interpreted based on my opinions and experiences It gave many good results, but I do not think there is a fixed answer.
+37:44
+To give better results, multiple approaches should be made. With the same context, there are various ways to explain.
+37:51
+Also, self-educating senses which one has never experienced is extremely difficult. If you quantify a single movement of a finger by muscle and nerve it is called GHz.
+37:59
+When using five fingers, then it becomes complicated movement quantified by THz which requires intense concentration.
+38:05
+Since it requires such complex processing, learning is not easy. Don’t be impatient even if you can’t learn or use it at the moment.
+38:13
+It is a difficult task so please start slowly and carefully. You need to try various methods to start understanding.
+38:18
+And when your comprehension increases, same contexts will look different Therefore, I advise you watch this videos multiple times when you remember.
+38:26
+When you work out, do some exercises or play any sports Imagine the movement of the muscles and the body moves accordingly,
+38:32
+So that you feel delightful like your body and thought unite as one i think aims give the same fun too 그래서인지 에임에 미친사람들 중에 운동하시는 분들이 생각보다 많더라구요
+38:42
+한 게임에 국한되는 것도 아니기 때문에 게임 망할 걱정은 안 해도 되는게 장점이지 않나. You might’ve got some more questions after watching this video
+38:49
+Since this video was created for teaching fundamental knowledge and basic information, I couldn't put in all the details
+38:55
+Cause it will be long story to explain more about so please understand The video used to be an hour and half long, but I shortened it to shorten it.
+39:01
+I would not be able to make these kind of lecturing videos frequently, but I will try making a few
+39:06
+And i try to reply all your comments but maybe can miss yours unfortunately In that case, if you need haste reply
+39:13
+Leave the message at QnA channel on my discord Then several top tier players will answer you There are some who become semi-Ryan Geul from my coaching.
+39:20
+I think it’s better to hear various answers I hope this video could have helped you
+39:25
+Have a Nice Game! :)
